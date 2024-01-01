@@ -1,0 +1,11 @@
+/* UsersTable.css */
+.table-container {
+    flex: 1;
+}
+
+.table-container .search-input {
+    margin-bottom: 20px;
+}
+.userTable{
+    display: flex;
+}

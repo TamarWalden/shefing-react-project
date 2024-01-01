@@ -1,0 +1,11 @@
+/* UserPosts.css */
+.posts-container {
+    flex: 1;
+    margin-left: 5vb;
+    margin-right: 5vb;
+    overflow-y: auto;
+  }
+.postsContent{
+    overflow-y: auto;
+    max-height: 100vh; 
+}

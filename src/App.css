@@ -1,0 +1,11 @@
+.app{
+  display: flex;
+}
+.circularProgress{
+  font-size: 20;
+  color: green;
+}
+
+.error{
+  color: red;
+}
